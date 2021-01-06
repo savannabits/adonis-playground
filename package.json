@@ -31,7 +31,7 @@
     "@adonisjs/session": "^1.0.27",
     "@adonisjs/shield": "^1.0.8",
     "@babel/plugin-transform-runtime": "^7.10.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.1.0",
     "laravel-mix": "^5.0.4"
   },
